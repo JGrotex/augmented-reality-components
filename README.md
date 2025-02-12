@@ -1,4 +1,4 @@
-# Augmented Reality
+# Augmented Reality Components
 AR Fragments build with TIBCO Cloud Products, Unity 3D, and Google ARCore. 
 As this is not the only way of extending our Reality, here along with my Smart-Mirror Project. 
 
